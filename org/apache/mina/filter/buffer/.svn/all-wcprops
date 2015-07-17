@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/buffer
+END
+BufferedWriteFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/buffer/BufferedWriteFilter.java
+END
+IoBufferLazyInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/buffer/IoBufferLazyInitializer.java
+END
+BufferedWriteFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/buffer/BufferedWriteFilter.class
+END
+IoBufferLazyInitializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/buffer/IoBufferLazyInitializer.class
+END

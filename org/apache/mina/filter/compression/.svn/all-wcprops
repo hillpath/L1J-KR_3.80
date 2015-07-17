@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/compression
+END
+Zlib.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/compression/Zlib.java
+END
+Zlib.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/compression/Zlib.class
+END
+CompressionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/compression/CompressionFilter.java
+END
+CompressionFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/compression/CompressionFilter.class
+END

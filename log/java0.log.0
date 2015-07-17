@@ -1,0 +1,6 @@
+Jul 09, 2015 6:01:26 PM l1j.server.Config load
+INFO: loading gameserver config
+Jul 09, 2015 6:02:39 PM l1j.server.server.Account create
+INFO: created new account for vkqwhs123
+Jul 09, 2015 6:02:59 PM l1j.server.server.clientpackets.C_SelectCharacter <init>
+INFO: [로그인] 케릭명: Wanted / 계정:vkqwhs123 / IP:127.0.0.1

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton
+END
+SingleSessionIoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandler.class
+END
+SingleSessionIoHandlerAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandlerAdapter.class
+END
+SingleSessionIoHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandlerFactory.java
+END
+SingleSessionIoHandlerDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandlerDelegate.java
+END
+SingleSessionIoHandlerFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandlerFactory.class
+END
+SingleSessionIoHandlerDelegate.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandlerDelegate.class
+END
+SingleSessionIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandler.java
+END
+SingleSessionIoHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/SingleSessionIoHandlerAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/multiton/package.html
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/digest
+END
+DigestUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/digest/DigestUtilities.java
+END
+HttpDigestAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/digest/HttpDigestAuthLogicHandler.java
+END

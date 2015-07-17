@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline
+END
+TextLineDecoder$Context.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineDecoder$Context.class
+END
+TextLineEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineEncoder.class
+END
+TextLineCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineCodecFactory.java
+END
+TextLineDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineDecoder.java
+END
+LineDelimiter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/LineDelimiter.java
+END
+TextLineCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineCodecFactory.class
+END
+TextLineDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineDecoder.class
+END
+LineDelimiter.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/LineDelimiter.class
+END
+TextLineDecoder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineDecoder$1.class
+END
+TextLineEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/TextLineEncoder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/textline/package.html
+END

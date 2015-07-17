@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall
+END
+ConnectionThrottleFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall/ConnectionThrottleFilter.class
+END
+Subnet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall/Subnet.java
+END
+BlacklistFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall/BlacklistFilter.class
+END
+Subnet.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall/Subnet.class
+END
+ConnectionThrottleFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall/ConnectionThrottleFilter.java
+END
+BlacklistFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall/BlacklistFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/firewall/package.html
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util
+END
+ReferenceCountingFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/ReferenceCountingFilter.class
+END
+CommonEventFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/CommonEventFilter.java
+END
+NoopFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/NoopFilter.java
+END
+CommonEventFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/CommonEventFilter.class
+END
+WriteRequestFilter$FilteredWriteRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/WriteRequestFilter$FilteredWriteRequest.class
+END
+SessionAttributeInitializingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/SessionAttributeInitializingFilter.java
+END
+WriteRequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/WriteRequestFilter.java
+END
+ReferenceCountingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/ReferenceCountingFilter.java
+END
+SessionAttributeInitializingFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/SessionAttributeInitializingFilter.class
+END
+WriteRequestFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/WriteRequestFilter.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/util/package.html
+END

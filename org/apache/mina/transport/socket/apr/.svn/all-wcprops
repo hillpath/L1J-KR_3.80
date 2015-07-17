@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr
+END
+AprSocketSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketSession.java
+END
+AprSocketAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketAcceptor.class
+END
+AprDatagramSession$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprDatagramSession$1.class
+END
+AprSocketSession$SessionConfigImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketSession$SessionConfigImpl.class
+END
+AprSocketConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketConnector.java
+END
+AprLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprLibrary.java
+END
+AprSocketSession$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketSession$1.class
+END
+AprSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSession.class
+END
+AprIoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprIoProcessor.java
+END
+AprDatagramSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprDatagramSession.class
+END
+AprSocketAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketAcceptor.java
+END
+AprSocketSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketSession.class
+END
+AprSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSession.java
+END
+AprDatagramSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprDatagramSession.java
+END
+AprSocketConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprSocketConnector.class
+END
+AprLibrary.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprLibrary.class
+END
+AprDatagramSession$SessionConfigImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprDatagramSession$SessionConfigImpl.class
+END
+AprIoProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/apr/AprIoProcessor.class
+END

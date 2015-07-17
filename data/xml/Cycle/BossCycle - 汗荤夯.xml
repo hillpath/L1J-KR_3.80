@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BossCycleList>
+	<!-- 게임어바웃 기준 테스트-->
+	<BossCycle Name="Omanboss">
+		<!-- 오만 보스, 0시 0분 기준으로 5시간 주기, 2시간 지나면 탐 끝 -->
+		<Cycle Base="1d3h0m" Period="5h" End="2h"/>
+	</BossCycle>
+	<BossCycle Name="DeathKnight">
+		<!-- 데스나이트, 0시 0분 기준으로 7시간 주기, 3시간 30분 지나면 탐 끝 -->
+		<Cycle Base="1d0h30m" Period="7h" End="3h30m"/>
+	</BossCycle>
+	<BossCycle Name="Drake">
+		<!-- 외드레이크, 0시 0분 기준으로 2시간 주기 -->
+		<Cycle Base="0h0m" Period="2h"/> 
+	</BossCycle>
+	<BossCycle Name="DoubleDrake">
+		<!-- 쌍드레이크, 0시 0분 기준으로 3시간 주기 -->
+		<Cycle Base="2h0m" Period="3h"/> 
+	</BossCycle>
+		<BossCycle Name="CaspaFamily">
+		<!-- 본던카스파, 0시 0분 기준으로 1시간 주기, 30분 지나면 생성, 1시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="Caspa">
+		<!-- 이외, 0시 0분 기준으로 1시간 주기, 30분 지나면 생성, 1시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<!-- 대정령 -->
+	<BossCycle Name="FirstSpirit">
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="SecondSpirit">
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="ThirdSpirit">
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<!-- 유니콘 -->
+	<BossCycle Name="FirstUnicorn">
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="SecondUnicorn">
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="ThirdUnicorn">
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="Crocodile">
+		<!-- 크로커다일, 0시 0분 기준으로 1시간 주기, 30분 지나면 생성, 1시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="GiantWorm">
+		<!-- 자이언트웜, 0시 0분 기준으로 2시간 주기, 30분 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="2h" End="30m"/> 
+	</BossCycle>
+	<BossCycle Name="AcientGiant">
+		<!-- 에자, 0시 0분 기준으로 6시간 주기, 만약 안뜨면 AcientGiant2로 뜸, 1시간 지나면 탐 끝 -->
+		<Cycle Base="2h0m" Period="6h" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="AcientGiant2">
+		<!-- 에자, 0시 0분 기준으로 6시간 주기, 1시간 지나면 탐 끝 -->
+		<Cycle Base="4h0m" Period="6h" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="IceQueen">
+		<!-- 얼음여왕, 0시 0분 기준으로 6시간 주기 2시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="6h" End="2h"/>
+	</BossCycle>
+	<BossCycle Name="Phoenix">
+		<!-- 피닉스, 3시 30분 기준으로 4시간 주기 2시간 지나면 탐 끝 -->
+		<Cycle Base="3h0m" Period="4h" End="2h"/>
+	</BossCycle>
+	<!-- 여기까지 어바웃에 나온 보스 시간 -->
+	<!-- 6시간 주기 -->
+	<BossCycle Name="YaheeTarak">
+		<!-- 야히, 0시 0분 기준으로 6시간 주기 3시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="6h"/>
+	</BossCycle>
+	<!-- 4시간 주기 -->
+	<BossCycle Name="Riper">
+		<!-- 6층리퍼, 0시0분 기준 4시간주기, 2시간 탐완료-->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+	<BossCycle Name="Kuts">
+		<!-- 커츠, 0시0분 기준 4시간주기, 2시간 탐완료-->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+	<BossCycle Name="GiantAnt">
+		<!-- 거대여왕개미, 0시 0분 기준으로 4시간 주기 2시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+		<BossCycle Name="Demon">
+		<!-- 데몬, 0시 0분 기준으로 4시간 주기 2시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+		<BossCycle Name="Shadow">
+		<!-- 혼돈, 0시 0분 기준으로 4시간 주기 2시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+	<BossCycle Name="Aden">
+		<!-- 1시간30분 기준 4시간 주기 1시30분부터 탐 3시간까지지속-->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+	<BossCycle Name="AdenCastleBoss">
+		<!-- 켄라 // 1시간30분 기준 4시간 주기 1시30분부터 탐 3시간까지지속-->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+	<!-- 3시간 주기 -->
+	<BossCycle Name="GiranCaveBoss">
+		<!-- 파우스트, 3시간주기-->
+		<Cycle Base="0h0m" Period="3h" End="2h30m"/>
+	</BossCycle>
+	<!-- 2시간 주기 -->
+	<BossCycle Name="WaterBoss">
+		<!-- 수던보스들, 0시 0분 기준으로 2시간주기 1시간 탐-->
+		<Cycle Base="0h0m" Period="2h" End="1h"/> 
+	</BossCycle>
+	<!-- 1시간 주기 -->
+	<BossCycle Name="BlackElder">
+		<!-- 흑장로, 0시 0분 기준으로 1시간 주기, 30분 지나면 생성, 1시간 지나면 탐 끝 -->
+		<Cycle Base="0h0m" Period="1h"/> 
+	</BossCycle>
+	<BossCycle Name="Efreet">
+		<!-- 이프리트, 0시 0분 기준으로 1시간 주기 30분후에 랜덤으로 뜸-->
+		<Cycle Base="0h30m" Period="1h"/> 
+	</BossCycle>
+	<!-- 30분 주기 -->
+	<BossCycle Name="etc">
+		<!-- 일팩기존 etc1->etc, 30분주기 -->
+		<Cycle Base="0h0m" Period="30m" End="29m"/>
+	</BossCycle>
+	<!-- 7시간 주기 -->
+	<BossCycle Name="Unknown">
+		<!-- 시간 모르는 보스들, 0시 0분 기준으로 1시간 주기 -->
+		<Cycle Base="0h0m" Period="4h"/>
+	</BossCycle>
+	<BossCycle Name="Dragon">
+		<!-- 용 1일주기 1일타임끝 -->
+		<Cycle Base="0h0m" Period="1h" Start="30m" End="1h"/> 
+	</BossCycle>
+	<BossCycle Name="PIQuest">
+	<!-- 해섬퀘스트, 1시간주기-->
+		<Cycle Base="0h0m" Period="1h" End="59m"/>
+	</BossCycle>
+</BossCycleList>

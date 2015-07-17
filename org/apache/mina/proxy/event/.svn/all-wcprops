@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/event
+END
+IoSessionEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/event/IoSessionEventType.java
+END
+IoSessionEventQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/event/IoSessionEventQueue.java
+END
+IoSessionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/event/IoSessionEvent.java
+END

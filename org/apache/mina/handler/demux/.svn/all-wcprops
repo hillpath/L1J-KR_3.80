@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux
+END
+ExceptionHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/ExceptionHandler.class
+END
+MessageHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/MessageHandler.java
+END
+ExceptionHandler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/ExceptionHandler$1.class
+END
+DemuxingIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/DemuxingIoHandler.java
+END
+ExceptionHandler$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/ExceptionHandler$2.class
+END
+MessageHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/MessageHandler.class
+END
+DemuxingIoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/DemuxingIoHandler.class
+END
+MessageHandler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/MessageHandler$1.class
+END
+ExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/ExceptionHandler.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/demux/package.html
+END

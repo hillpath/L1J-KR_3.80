@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context
+END
+IoSessionStateContextLookup.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/IoSessionStateContextLookup.class
+END
+StateContextFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/StateContextFactory.class
+END
+SingletonStateContextLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/SingletonStateContextLookup.java
+END
+AbstractStateContextLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/AbstractStateContextLookup.java
+END
+StateContextLookup.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/StateContextLookup.class
+END
+DefaultStateContextFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/DefaultStateContextFactory.class
+END
+StateContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/StateContext.class
+END
+AbstractStateContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/AbstractStateContext.java
+END
+IoSessionStateContextLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/IoSessionStateContextLookup.java
+END
+StateContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/StateContextFactory.java
+END
+DefaultStateContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/DefaultStateContext.class
+END
+StateContextLookup.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/StateContextLookup.java
+END
+DefaultStateContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/DefaultStateContextFactory.java
+END
+StateContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/StateContext.java
+END
+SingletonStateContextLookup.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/SingletonStateContextLookup.class
+END
+AbstractStateContextLookup.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/AbstractStateContextLookup.class
+END
+DefaultStateContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/DefaultStateContext.java
+END
+AbstractStateContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/context/AbstractStateContext.class
+END

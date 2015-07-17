@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl
+END
+SslHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslHandler.java
+END
+SslFilter$EncryptedWriteRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslFilter$EncryptedWriteRequest.class
+END
+BogusTrustManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/BogusTrustManagerFactory.java
+END
+SslFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslFilter.java
+END
+BogusTrustManagerFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/BogusTrustManagerFactory$1.class
+END
+BogusTrustManagerFactory$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/BogusTrustManagerFactory$2.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/package.html
+END
+SslFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslFilter$1.class
+END
+KeyStoreFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/KeyStoreFactory.class
+END
+SslContextFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslContextFactory.class
+END
+SslHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslHandler.class
+END
+BogusTrustManagerFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/BogusTrustManagerFactory.class
+END
+SslFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslFilter.class
+END
+SslFilter$SslFilterMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslFilter$SslFilterMessage.class
+END
+KeyStoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/KeyStoreFactory.java
+END
+BogusTrustManagerFactory$BogusTrustManagerFactorySpi.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/BogusTrustManagerFactory$BogusTrustManagerFactorySpi.class
+END
+SslContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/ssl/SslContextFactory.java
+END

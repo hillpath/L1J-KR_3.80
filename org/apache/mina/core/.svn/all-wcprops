@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core
+END
+DefaultExceptionMonitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/DefaultExceptionMonitor.class
+END
+IoUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/IoUtil.java
+END
+IoUtil.class
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/IoUtil.class
+END
+ExceptionMonitor.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/ExceptionMonitor.class
+END
+RuntimeIoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/RuntimeIoException.java
+END
+RuntimeIoException.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/RuntimeIoException.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/package.html
+END

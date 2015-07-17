@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling
+END
+AbstractPollingIoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoAcceptor.java
+END
+AbstractPollingIoProcessor$Worker.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoProcessor$Worker.class
+END
+AbstractPollingIoConnector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoConnector$1.class
+END
+AbstractPollingIoProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoProcessor.class
+END
+AbstractPollingConnectionlessIoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingConnectionlessIoAcceptor.java
+END
+AbstractPollingIoAcceptor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoAcceptor$1.class
+END
+AbstractPollingIoConnector$ConnectionRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoConnector$ConnectionRequest.class
+END
+AbstractPollingIoProcessor$SessionState.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoProcessor$SessionState.class
+END
+AbstractPollingIoConnector$Worker.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoConnector$Worker.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/package.html
+END
+AbstractPollingIoConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoConnector.class
+END
+AbstractPollingIoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoProcessor.java
+END
+AbstractPollingConnectionlessIoAcceptor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingConnectionlessIoAcceptor$1.class
+END
+AbstractPollingIoAcceptor$Worker.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoAcceptor$Worker.class
+END
+AbstractPollingIoAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoAcceptor.class
+END
+AbstractPollingConnectionlessIoAcceptor$ConnectionlessAcceptorProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingConnectionlessIoAcceptor$ConnectionlessAcceptorProcessor.class
+END
+AbstractPollingIoProcessor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoProcessor$1.class
+END
+AbstractPollingConnectionlessIoAcceptor$Worker.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingConnectionlessIoAcceptor$Worker.class
+END
+AbstractPollingIoConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingIoConnector.java
+END
+AbstractPollingConnectionlessIoAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/polling/AbstractPollingConnectionlessIoAcceptor.class
+END

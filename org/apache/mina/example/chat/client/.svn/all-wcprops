@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client
+END
+SwingChatClient$BroadcastAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClient$BroadcastAction.class
+END
+SwingChatClient$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClient$1.class
+END
+ChatClientSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/ChatClientSupport.class
+END
+SwingChatClient$LoginAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClient$LoginAction.class
+END
+SwingChatClient$LogoutAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClient$LogoutAction.class
+END
+SwingChatClientHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClientHandler.class
+END
+ConnectDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/ConnectDialog.java
+END
+SwingChatClient.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClient.class
+END
+ChatClientSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/ChatClientSupport.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/package.html
+END
+SwingChatClient$QuitAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClient$QuitAction.class
+END
+ConnectDialog$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/ConnectDialog$1.class
+END
+ConnectDialog$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/ConnectDialog$2.class
+END
+SwingChatClientHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClientHandler.java
+END
+SwingChatClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClient.java
+END
+SwingChatClientHandler$Callback.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/SwingChatClientHandler$Callback.class
+END
+ConnectDialog.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/client/ConnectDialog.class
+END

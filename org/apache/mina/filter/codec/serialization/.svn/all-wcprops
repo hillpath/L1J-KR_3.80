@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization
+END
+ObjectSerializationInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationInputStream.java
+END
+ObjectSerializationOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationOutputStream.java
+END
+ObjectSerializationEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationEncoder.java
+END
+ObjectSerializationInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationInputStream.class
+END
+ObjectSerializationOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationOutputStream.class
+END
+ObjectSerializationEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationEncoder.class
+END
+ObjectSerializationCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationCodecFactory.java
+END
+ObjectSerializationDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationDecoder.java
+END
+ObjectSerializationCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationCodecFactory.class
+END
+ObjectSerializationDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/ObjectSerializationDecoder.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/serialization/package.html
+END

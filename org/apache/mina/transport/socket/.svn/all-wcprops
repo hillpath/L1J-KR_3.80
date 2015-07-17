@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket
+END
+DatagramAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DatagramAcceptor.java
+END
+DefaultDatagramSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DefaultDatagramSessionConfig.class
+END
+SocketConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/SocketConnector.java
+END
+AbstractSocketSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/AbstractSocketSessionConfig.java
+END
+SocketSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/SocketSessionConfig.class
+END
+SocketAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/SocketAcceptor.java
+END
+DatagramSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DatagramSessionConfig.java
+END
+DefaultSocketSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DefaultSocketSessionConfig.class
+END
+DefaultDatagramSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DefaultDatagramSessionConfig.java
+END
+DatagramConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DatagramConnector.class
+END
+AbstractDatagramSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/AbstractDatagramSessionConfig.class
+END
+SocketSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/SocketSessionConfig.java
+END
+DatagramAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DatagramAcceptor.class
+END
+SocketConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/SocketConnector.class
+END
+DefaultSocketSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DefaultSocketSessionConfig.java
+END
+AbstractSocketSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/AbstractSocketSessionConfig.class
+END
+DatagramConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DatagramConnector.java
+END
+SocketAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/SocketAcceptor.class
+END
+DatagramSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/DatagramSessionConfig.class
+END
+AbstractDatagramSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/socket/AbstractDatagramSessionConfig.java
+END

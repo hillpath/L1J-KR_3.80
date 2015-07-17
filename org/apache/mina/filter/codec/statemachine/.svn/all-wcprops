@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine
+END
+FixedLengthDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/FixedLengthDecodingState.java
+END
+DecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/DecodingState.class
+END
+SingleByteDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/SingleByteDecodingState.java
+END
+ConsumeToTerminatorDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToTerminatorDecodingState.class
+END
+ConsumeToCrLfDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToCrLfDecodingState.class
+END
+SkippingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/SkippingState.class
+END
+DecodingStateProtocolDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/DecodingStateProtocolDecoder.class
+END
+ShortIntegerDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ShortIntegerDecodingState.java
+END
+ConsumeToEndOfSessionDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToEndOfSessionDecodingState.class
+END
+IntegerDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/IntegerDecodingState.class
+END
+LinearWhitespaceSkippingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/LinearWhitespaceSkippingState.class
+END
+FixedLengthDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/FixedLengthDecodingState.class
+END
+DecodingStateMachine.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/DecodingStateMachine.class
+END
+SingleByteDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/SingleByteDecodingState.class
+END
+ConsumeToEndOfSessionDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToEndOfSessionDecodingState.java
+END
+ShortIntegerDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ShortIntegerDecodingState.class
+END
+DecodingStateMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/DecodingStateMachine.java
+END
+ConsumeToLinearWhitespaceDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToLinearWhitespaceDecodingState.class
+END
+ConsumeToDynamicTerminatorDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToDynamicTerminatorDecodingState.class
+END
+CrLfDecodingState.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/CrLfDecodingState.class
+END
+DecodingStateMachine$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/DecodingStateMachine$1.class
+END
+DecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/DecodingState.java
+END
+ConsumeToTerminatorDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToTerminatorDecodingState.java
+END
+ConsumeToCrLfDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToCrLfDecodingState.java
+END
+ConsumeToLinearWhitespaceDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToLinearWhitespaceDecodingState.java
+END
+ConsumeToDynamicTerminatorDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/ConsumeToDynamicTerminatorDecodingState.java
+END
+CrLfDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/CrLfDecodingState.java
+END
+SkippingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/SkippingState.java
+END
+DecodingStateProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/DecodingStateProtocolDecoder.java
+END
+IntegerDecodingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/IntegerDecodingState.java
+END
+LinearWhitespaceSkippingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/statemachine/LinearWhitespaceSkippingState.java
+END

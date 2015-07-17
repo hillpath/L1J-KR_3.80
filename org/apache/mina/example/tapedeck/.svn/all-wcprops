@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck
+END
+PasswordCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/PasswordCommand.java
+END
+LoadCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/LoadCommand.class
+END
+StopCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/StopCommand.class
+END
+AuthenticationHandler$AuthenticationContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/AuthenticationHandler$AuthenticationContext.class
+END
+AuthenticationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/AuthenticationHandler.java
+END
+EjectCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/EjectCommand.class
+END
+UserCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/UserCommand.java
+END
+LoadCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/LoadCommand.java
+END
+InfoCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/InfoCommand.class
+END
+QuitCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/QuitCommand.java
+END
+StopCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/StopCommand.java
+END
+PasswordCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/PasswordCommand.class
+END
+PlayCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/PlayCommand.class
+END
+CommandDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/CommandDecoder.class
+END
+CommandSyntaxException.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/CommandSyntaxException.class
+END
+InfoCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/InfoCommand.java
+END
+ListCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/ListCommand.class
+END
+PauseCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/PauseCommand.class
+END
+AuthenticationHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/AuthenticationHandler.class
+END
+UserCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/UserCommand.class
+END
+Command.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/Command.class
+END
+PlayCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/PlayCommand.java
+END
+CommandDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/CommandDecoder.java
+END
+CommandSyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/CommandSyntaxException.java
+END
+QuitCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/QuitCommand.class
+END
+TapeDeckServer$TapeDeckContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/TapeDeckServer$TapeDeckContext.class
+END
+TapeDeckServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/TapeDeckServer.java
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/Main.class
+END
+ListCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/ListCommand.java
+END
+PauseCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/PauseCommand.java
+END
+CommandDecoder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/CommandDecoder$1.class
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/Command.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/Main.java
+END
+EjectCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/EjectCommand.java
+END
+TapeDeckServer.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/TapeDeckServer.class
+END
+Main$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/Main$1.class
+END
+Main$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/tapedeck/Main$2.class
+END

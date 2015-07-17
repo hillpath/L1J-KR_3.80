@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat
+END
+ChatProtocolHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/ChatProtocolHandler.java
+END
+ChatCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/ChatCommand.class
+END
+ChatProtocolHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/ChatProtocolHandler.class
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/Main.java
+END
+SpringMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/SpringMain.java
+END
+Main.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/Main.class
+END
+serverContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/serverContext.xml
+END
+SpringMain.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/SpringMain.class
+END
+ChatCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/ChatCommand.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/chat/package.html
+END

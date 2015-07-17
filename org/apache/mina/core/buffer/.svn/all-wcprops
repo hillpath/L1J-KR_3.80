@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer
+END
+AbstractIoBuffer$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/AbstractIoBuffer$2.class
+END
+AbstractIoBuffer$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/AbstractIoBuffer$3.class
+END
+IoBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBuffer.java
+END
+AbstractIoBuffer$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/AbstractIoBuffer$4.class
+END
+CachedBufferAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/CachedBufferAllocator.java
+END
+IoBufferAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBufferAllocator.java
+END
+IoBufferWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBufferWrapper.java
+END
+BufferDataException.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/BufferDataException.class
+END
+IoBufferHexDumper.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBufferHexDumper.class
+END
+SimpleBufferAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/SimpleBufferAllocator.class
+END
+AbstractIoBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/AbstractIoBuffer.class
+END
+CachedBufferAllocator$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/CachedBufferAllocator$1.class
+END
+CachedBufferAllocator$CachedBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/CachedBufferAllocator$CachedBuffer.class
+END
+CachedBufferAllocator$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/CachedBufferAllocator$2.class
+END
+SimpleBufferAllocator$SimpleBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/SimpleBufferAllocator$SimpleBuffer.class
+END
+BufferDataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/BufferDataException.java
+END
+IoBufferHexDumper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBufferHexDumper.java
+END
+SimpleBufferAllocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/SimpleBufferAllocator.java
+END
+IoBuffer.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBuffer.class
+END
+AbstractIoBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/AbstractIoBuffer.java
+END
+IoBufferAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBufferAllocator.class
+END
+CachedBufferAllocator.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/CachedBufferAllocator.class
+END
+IoBufferWrapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/IoBufferWrapper.class
+END
+AbstractIoBuffer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/buffer/AbstractIoBuffer$1.class
+END

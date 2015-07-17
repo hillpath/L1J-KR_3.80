@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BossCycleList>
+	
+	<!--
+		<BossCycle Name="Sample1">
+			<Base Date="2008/5/18" Time="0:00" />
+			<Cycle Period="1d2h31m" Start="3h30m" End="1d5m" />
+		</BossCycle>
+	-->
+	<BossCycle Name="DK1">
+	<Cycle Period="1h" Start="1m" End="59m"/>
+	</BossCycle>
+    <BossCycle Name="DK2">
+	<Cycle Period="2h" Start="1m" End="1h59m"/>
+	</BossCycle>
+	<BossCycle Name="DK3">
+     <Cycle Period="3h" Start="1m" End="2h59m"/>
+	</BossCycle>
+    <BossCycle Name="DK4">
+     <Cycle Period="4h" Start="1m" End="3h59m"/>
+	</BossCycle>
+	 <BossCycle Name="DK5">
+     <Cycle Period="5h" Start="1m" End="4h59m"/>
+	</BossCycle>
+    <BossCycle Name="DK6">
+	<Cycle Period="6h" Start="1m" End="5h59m"/>
+	</BossCycle>
+
+
+
+
+</BossCycleList>

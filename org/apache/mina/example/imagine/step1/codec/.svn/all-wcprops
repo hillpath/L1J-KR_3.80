@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec
+END
+ImageRequestEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageRequestEncoder.class
+END
+ImageResponseDecoder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageResponseDecoder$1.class
+END
+ImageRequestDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageRequestDecoder.java
+END
+ImageResponseEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageResponseEncoder.java
+END
+ImageRequestDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageRequestDecoder.class
+END
+ImageResponseEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageResponseEncoder.class
+END
+ImageResponseDecoder$DecoderState.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageResponseDecoder$DecoderState.class
+END
+ImageResponseDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageResponseDecoder.java
+END
+ImageCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageCodecFactory.java
+END
+ImageRequestEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageRequestEncoder.java
+END
+ImageResponseDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageResponseDecoder.class
+END
+ImageCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/imagine/step1/codec/ImageCodecFactory.class
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy
+END
+AbstractProxyLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/AbstractProxyLogicHandler.java
+END
+ProxyAuthException.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/ProxyAuthException.java
+END
+AbstractProxyIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/AbstractProxyIoHandler.java
+END
+ProxyConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/ProxyConnector.java
+END
+ProxyLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/ProxyLogicHandler.java
+END

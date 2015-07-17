@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/basic
+END
+HttpBasicAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/basic/HttpBasicAuthLogicHandler.java
+END
+HttpNoAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/basic/HttpNoAuthLogicHandler.java
+END

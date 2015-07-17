@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http
+END
+AbstractHttpLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/AbstractHttpLogicHandler.java
+END
+HttpProxyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/HttpProxyResponse.java
+END
+AbstractAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/AbstractAuthLogicHandler.java
+END
+HttpAuthenticationMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/HttpAuthenticationMethods.java
+END
+HttpSmartProxyHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/HttpSmartProxyHandler.java
+END
+HttpProxyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/HttpProxyRequest.java
+END
+HttpProxyConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/HttpProxyConstants.java
+END

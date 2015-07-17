@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec
+END
+ProtocolEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoder.java
+END
+SynchronizedProtocolEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/SynchronizedProtocolEncoder.java
+END
+ProtocolEncoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoderAdapter.java
+END
+ProtocolCodecFilter$EncodedWriteRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter$EncodedWriteRequest.class
+END
+ProtocolEncoderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoderException.class
+END
+RecoverableProtocolDecoderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/RecoverableProtocolDecoderException.class
+END
+AbstractProtocolEncoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/AbstractProtocolEncoderOutput.java
+END
+ProtocolDecoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoderOutput.java
+END
+ProtocolDecoderAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoderAdapter.class
+END
+ProtocolCodecSession$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecSession$1.class
+END
+ProtocolCodecSession$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecSession$2.class
+END
+ProtocolCodecFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter$1.class
+END
+ProtocolCodecFilter$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter$2.class
+END
+AbstractProtocolDecoderOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/AbstractProtocolDecoderOutput.class
+END
+ProtocolEncoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoderException.java
+END
+RecoverableProtocolDecoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/RecoverableProtocolDecoderException.java
+END
+ProtocolCodecFilter$ProtocolEncoderOutputImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter$ProtocolEncoderOutputImpl.class
+END
+ProtocolEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoder.class
+END
+SynchronizedProtocolEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/SynchronizedProtocolEncoder.class
+END
+ProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoder.java
+END
+ProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFactory.java
+END
+SynchronizedProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/SynchronizedProtocolDecoder.java
+END
+ProtocolDecoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoderAdapter.java
+END
+ProtocolDecoderException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoderException.class
+END
+AbstractProtocolDecoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/AbstractProtocolDecoderOutput.java
+END
+ProtocolCodecException.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecException.class
+END
+ProtocolCodecSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecSession.java
+END
+ProtocolCodecFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter.java
+END
+ProtocolEncoderOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoderOutput.class
+END
+ProtocolDecoderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoderException.java
+END
+ProtocolCodecFilter$ProtocolDecoderOutputImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter$ProtocolDecoderOutputImpl.class
+END
+CumulativeProtocolDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/CumulativeProtocolDecoder.class
+END
+ProtocolDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoder.class
+END
+ProtocolCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFactory.class
+END
+SynchronizedProtocolDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/SynchronizedProtocolDecoder.class
+END
+ProtocolCodecException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/package.html
+END
+ProtocolEncoderOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoderOutput.java
+END
+CumulativeProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/CumulativeProtocolDecoder.java
+END
+ProtocolCodecFilter$MessageWriteRequest.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter$MessageWriteRequest.class
+END
+ProtocolEncoderAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolEncoderAdapter.class
+END
+ProtocolCodecSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecSession.class
+END
+ProtocolCodecFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolCodecFilter.class
+END
+AbstractProtocolEncoderOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/AbstractProtocolEncoderOutput.class
+END
+ProtocolDecoderOutput.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/ProtocolDecoderOutput.class
+END

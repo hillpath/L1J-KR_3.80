@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty
+END
+NettyEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty/NettyEncoder.java
+END
+NettyEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty/NettyEncoder.class
+END
+NettyCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty/NettyCodecFactory.java
+END
+NettyDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty/NettyDecoder.java
+END
+NettyCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty/NettyCodecFactory.class
+END
+NettyDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty/NettyDecoder.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/netty/package.html
+END

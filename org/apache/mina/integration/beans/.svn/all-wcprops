@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans
+END
+EnumEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/EnumEditor.class
+END
+NumberEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/NumberEditor.java
+END
+FloatEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/FloatEditor.class
+END
+ClassEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ClassEditor.class
+END
+StringEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/StringEditor.class
+END
+TrafficMaskEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/TrafficMaskEditor.java
+END
+VmPipeAddressEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/VmPipeAddressEditor.class
+END
+SetEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/SetEditor.java
+END
+IntegerEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/IntegerEditor.java
+END
+NullEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/NullEditor.class
+END
+LongEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/LongEditor.java
+END
+ShortEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ShortEditor.java
+END
+PropertyEditorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/PropertyEditorFactory.class
+END
+InetSocketAddressEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/InetSocketAddressEditor.class
+END
+ArrayEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ArrayEditor.class
+END
+URLEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/URLEditor.java
+END
+ByteEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ByteEditor.java
+END
+FloatEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/FloatEditor.java
+END
+ClassEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ClassEditor.java
+END
+AbstractPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/AbstractPropertyEditor.java
+END
+DoubleEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/DoubleEditor.java
+END
+NumberEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/NumberEditor.class
+END
+TrafficMaskEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/TrafficMaskEditor.class
+END
+CollectionEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/CollectionEditor.class
+END
+URIEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/URIEditor.class
+END
+URLEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/URLEditor.class
+END
+InetAddressEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/InetAddressEditor.class
+END
+CollectionEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/CollectionEditor.java
+END
+AbstractPropertyEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/AbstractPropertyEditor.class
+END
+CharacterEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/CharacterEditor.java
+END
+PropertiesEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/PropertiesEditor.java
+END
+DoubleEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/DoubleEditor.class
+END
+ListEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ListEditor.class
+END
+URIEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/URIEditor.java
+END
+DateEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/DateEditor.class
+END
+MapEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/MapEditor.class
+END
+PatternEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/PatternEditor.class
+END
+FileEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/FileEditor.class
+END
+BooleanEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/BooleanEditor.class
+END
+EnumEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/EnumEditor.java
+END
+InetAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/InetAddressEditor.java
+END
+StringEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/StringEditor.java
+END
+VmPipeAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/VmPipeAddressEditor.java
+END
+MapEditor$TokenType.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/MapEditor$TokenType.class
+END
+NullEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/NullEditor.java
+END
+ListEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ListEditor.java
+END
+PropertyEditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/PropertyEditorFactory.java
+END
+DateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/DateEditor.java
+END
+MapEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/MapEditor.java
+END
+PatternEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/PatternEditor.java
+END
+InetSocketAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/InetSocketAddressEditor.java
+END
+ArrayEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ArrayEditor.java
+END
+FileEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/FileEditor.java
+END
+BooleanEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/BooleanEditor.java
+END
+SetEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/SetEditor.class
+END
+CharacterEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/CharacterEditor.class
+END
+PropertiesEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/PropertiesEditor.class
+END
+IntegerEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/IntegerEditor.class
+END
+LongEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/LongEditor.class
+END
+ShortEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ShortEditor.class
+END
+MapEditor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/MapEditor$1.class
+END
+ByteEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/beans/ByteEditor.class
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux
+END
+MessageDecoderAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoderAdapter.class
+END
+MessageEncoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageEncoderFactory.class
+END
+DemuxingProtocolDecoder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder$1.class
+END
+DemuxingProtocolEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder.java
+END
+DemuxingProtocolEncoder$DefaultConstructorMessageEncoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder$DefaultConstructorMessageEncoderFactory.class
+END
+MessageDecoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoderFactory.java
+END
+MessageEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageEncoder.class
+END
+MessageDecoderResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoderResult.java
+END
+MessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoder.java
+END
+DemuxingProtocolEncoder$SingletonMessageEncoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder$SingletonMessageEncoderFactory.class
+END
+DemuxingProtocolEncoder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder$1.class
+END
+MessageDecoderAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoderAdapter.java
+END
+DemuxingProtocolDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder.class
+END
+DemuxingProtocolCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolCodecFactory.class
+END
+MessageEncoderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageEncoderFactory.java
+END
+DemuxingProtocolDecoder$DefaultConstructorMessageDecoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder$DefaultConstructorMessageDecoderFactory.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/package.html
+END
+DemuxingProtocolDecoder$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder$State.class
+END
+MessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageEncoder.java
+END
+DemuxingProtocolEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder.class
+END
+DemuxingProtocolDecoder$SingletonMessageDecoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder$SingletonMessageDecoderFactory.class
+END
+MessageDecoderFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoderFactory.class
+END
+DemuxingProtocolDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolDecoder.java
+END
+DemuxingProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolCodecFactory.java
+END
+DemuxingProtocolEncoder$State.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/DemuxingProtocolEncoder$State.class
+END
+MessageDecoderResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoderResult.class
+END
+MessageDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/demux/MessageDecoder.class
+END

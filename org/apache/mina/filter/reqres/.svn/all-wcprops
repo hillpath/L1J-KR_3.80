@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres
+END
+RequestResponseFilter$TimeoutTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/RequestResponseFilter$TimeoutTask.class
+END
+ResponseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/ResponseType.java
+END
+ResponseInspectorFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/ResponseInspectorFactory.class
+END
+RequestResponseFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/RequestResponseFilter.class
+END
+RequestTimeoutException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/RequestTimeoutException.class
+END
+ResponseInspector.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/ResponseInspector.class
+END
+Request.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/Request.class
+END
+ResponseInspectorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/ResponseInspectorFactory.java
+END
+RequestResponseFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/RequestResponseFilter.java
+END
+RequestTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/RequestTimeoutException.java
+END
+Response.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/Response.class
+END
+ResponseType.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/ResponseType.class
+END
+ResponseInspector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/ResponseInspector.java
+END
+RequestResponseFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/RequestResponseFilter$1.class
+END
+RequestResponseFilter$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/RequestResponseFilter$2.class
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/Request.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/reqres/Response.java
+END

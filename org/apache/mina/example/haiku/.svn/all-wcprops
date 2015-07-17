@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku
+END
+Haiku.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/Haiku.java
+END
+HaikuValidatorIoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/HaikuValidatorIoHandler.class
+END
+PhraseUtilities.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/PhraseUtilities.class
+END
+ToHaikuIoFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/ToHaikuIoFilter.java
+END
+HaikuValidationServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/HaikuValidationServer.java
+END
+Haiku.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/Haiku.class
+END
+ToHaikuIoFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/ToHaikuIoFilter.class
+END
+HaikuValidationServer.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/HaikuValidationServer.class
+END
+HaikuValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/HaikuValidator.java
+END
+InvalidHaikuException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/InvalidHaikuException.java
+END
+HaikuValidator.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/HaikuValidator.class
+END
+InvalidHaikuException.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/InvalidHaikuException.class
+END
+HaikuValidatorIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/HaikuValidatorIoHandler.java
+END
+PhraseUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/haiku/PhraseUtilities.java
+END

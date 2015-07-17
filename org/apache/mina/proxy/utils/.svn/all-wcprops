@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/utils
+END
+ByteUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/utils/ByteUtilities.java
+END
+MD4Provider.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/utils/MD4Provider.java
+END
+StringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/utils/StringUtilities.java
+END
+MD4.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/utils/MD4.java
+END
+IoBufferDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/utils/IoBufferDecoder.java
+END

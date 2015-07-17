@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain
+END
+ChainedIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/ChainedIoHandler.java
+END
+IoHandlerChain$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerChain$1.class
+END
+IoHandlerChain$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerChain$2.class
+END
+IoHandlerChain$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerChain$Entry.class
+END
+IoHandlerCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerCommand.java
+END
+ChainedIoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/ChainedIoHandler.class
+END
+IoHandlerChain$Entry$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerChain$Entry$1.class
+END
+IoHandlerChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerChain.java
+END
+IoHandlerCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerCommand.class
+END
+IoHandlerCommand$NextCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerCommand$NextCommand.class
+END
+IoHandlerChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/IoHandlerChain.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/chain/package.html
+END

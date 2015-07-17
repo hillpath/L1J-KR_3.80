@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx
+END
+IoServiceMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/IoServiceMBean.class
+END
+IoFilterMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/IoFilterMBean.java
+END
+IoSessionMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/IoSessionMBean.class
+END
+ObjectMBean$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/ObjectMBean$1.class
+END
+IoFilterMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/IoFilterMBean.class
+END
+ObjectMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/ObjectMBean.java
+END
+IoServiceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/IoServiceMBean.java
+END
+ObjectMBean$OgnlTypeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/ObjectMBean$OgnlTypeConverter.class
+END
+ObjectMBean.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/ObjectMBean.class
+END
+IoSessionMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/IoSessionMBean.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/jmx/package.html
+END

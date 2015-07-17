@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream
+END
+StreamIoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream/StreamIoHandler.java
+END
+StreamIoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream/StreamIoHandler.class
+END
+IoSessionInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream/IoSessionInputStream.java
+END
+IoSessionOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream/IoSessionOutputStream.java
+END
+IoSessionInputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream/IoSessionInputStream.class
+END
+IoSessionOutputStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream/IoSessionOutputStream.class
+END
+StreamIoHandler$StreamIoException.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/handler/stream/StreamIoHandler$StreamIoException.class
+END

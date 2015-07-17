@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/ntlm
+END
+NTLMUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/ntlm/NTLMUtilities.java
+END
+NTLMConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/ntlm/NTLMConstants.java
+END
+HttpNTLMAuthLogicHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/ntlm/HttpNTLMAuthLogicHandler.java
+END
+NTLMResponses.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/proxy/handlers/http/ntlm/NTLMResponses.java
+END

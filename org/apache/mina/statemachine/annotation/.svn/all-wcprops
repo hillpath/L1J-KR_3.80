@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation
+END
+IoFilterTransitions.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoFilterTransitions.class
+END
+Transitions.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/Transitions.class
+END
+IoHandlerTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoHandlerTransitions.java
+END
+State.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/State.class
+END
+IoHandlerTransition.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoHandlerTransition.class
+END
+TransitionAnnotation.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/TransitionAnnotation.class
+END
+IoFilterTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoFilterTransitions.java
+END
+IoFilterTransition.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoFilterTransition.class
+END
+Transitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/Transitions.java
+END
+Transition.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/Transition.class
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/State.java
+END
+IoHandlerTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoHandlerTransition.java
+END
+TransitionAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/TransitionAnnotation.java
+END
+IoHandlerTransitions.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoHandlerTransitions.class
+END
+IoFilterTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/IoFilterTransition.java
+END
+Transition.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/annotation/Transition.java
+END

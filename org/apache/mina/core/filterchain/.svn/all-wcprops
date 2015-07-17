@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain
+END
+IoFilterChainBuilder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterChainBuilder$1.class
+END
+IoFilterLifeCycleException.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterLifeCycleException.class
+END
+IoFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilter.class
+END
+IoFilterAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterAdapter.class
+END
+IoFilterEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterEvent.class
+END
+IoFilterChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterChain.class
+END
+DefaultIoFilterChainBuilder$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChainBuilder$1.class
+END
+DefaultIoFilterChain$HeadFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChain$HeadFilter.class
+END
+DefaultIoFilterChain$EntryImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChain$EntryImpl$1.class
+END
+DefaultIoFilterChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChain.class
+END
+IoFilter$NextFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilter$NextFilter.class
+END
+IoFilterChainBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterChainBuilder.class
+END
+IoFilterLifeCycleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterLifeCycleException.java
+END
+IoFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilter.java
+END
+IoFilterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterAdapter.java
+END
+IoFilterEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterEvent.java
+END
+DefaultIoFilterChainBuilder.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChainBuilder.class
+END
+IoFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterChain.java
+END
+DefaultIoFilterChain$EntryImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChain$EntryImpl.class
+END
+DefaultIoFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChain.java
+END
+IoFilterChainBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterChainBuilder.java
+END
+DefaultIoFilterChainBuilder$EntryImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChainBuilder$EntryImpl.class
+END
+IoFilterEvent$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterEvent$1.class
+END
+IoFilterChain$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/IoFilterChain$Entry.class
+END
+DefaultIoFilterChainBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChainBuilder.java
+END
+DefaultIoFilterChain$TailFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChain$TailFilter.class
+END
+DefaultIoFilterChain$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/filterchain/DefaultIoFilterChain$1.class
+END

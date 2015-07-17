@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec
+END
+Constants.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/Constants.class
+END
+SumUpProtocolCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/SumUpProtocolCodecFactory.class
+END
+ResultMessageEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/ResultMessageEncoder.class
+END
+AddMessageDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AddMessageDecoder.class
+END
+AbstractMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AbstractMessageEncoder.java
+END
+ResultMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/ResultMessageDecoder.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/Constants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/package.html
+END
+SumUpProtocolCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/SumUpProtocolCodecFactory.java
+END
+AddMessageEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AddMessageEncoder.class
+END
+AbstractMessageDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AbstractMessageDecoder.class
+END
+ResultMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/ResultMessageEncoder.java
+END
+AddMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AddMessageDecoder.java
+END
+AbstractMessageEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AbstractMessageEncoder.class
+END
+ResultMessageDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/ResultMessageDecoder.class
+END
+AddMessageEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AddMessageEncoder.java
+END
+AbstractMessageDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/example/sumup/codec/AbstractMessageDecoder.java
+END

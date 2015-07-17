@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/prefixedstring
+END
+PrefixedStringEncoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/prefixedstring/PrefixedStringEncoder.class
+END
+PrefixedStringCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/prefixedstring/PrefixedStringCodecFactory.java
+END
+PrefixedStringDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/prefixedstring/PrefixedStringDecoder.java
+END
+PrefixedStringCodecFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/prefixedstring/PrefixedStringCodecFactory.class
+END
+PrefixedStringDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/prefixedstring/PrefixedStringDecoder.class
+END
+PrefixedStringEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/codec/prefixedstring/PrefixedStringEncoder.java
+END

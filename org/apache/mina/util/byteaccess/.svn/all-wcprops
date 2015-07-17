@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess
+END
+IoRelativeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/IoRelativeWriter.java
+END
+ByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/ByteArray.java
+END
+IoAbsoluteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/IoAbsoluteWriter.java
+END
+SimpleByteArrayFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/SimpleByteArrayFactory.java
+END
+CompositeByteArrayRelativeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/CompositeByteArrayRelativeReader.java
+END
+CompositeByteArrayRelativeBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/CompositeByteArrayRelativeBase.java
+END
+CompositeByteArrayRelativeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/CompositeByteArrayRelativeWriter.java
+END
+CompositeByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/CompositeByteArray.java
+END
+IoRelativeReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/IoRelativeReader.java
+END
+AbstractByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/AbstractByteArray.java
+END
+IoAbsoluteReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/IoAbsoluteReader.java
+END
+ByteArrayFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/ByteArrayFactory.java
+END
+ByteArrayPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/ByteArrayPool.java
+END
+BufferByteArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/BufferByteArray.java
+END
+ByteArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/util/byteaccess/ByteArrayList.java
+END

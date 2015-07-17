@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service
+END
+SimpleIoProcessorPool.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/SimpleIoProcessorPool.class
+END
+AbstractIoAcceptor$AcceptorOperationFuture.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoAcceptor$AcceptorOperationFuture.class
+END
+IoConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoConnector.class
+END
+IoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoProcessor.java
+END
+IoServiceIdleState.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceIdleState.class
+END
+IoService.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoService.class
+END
+IoAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoAcceptor.class
+END
+IoConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoConnector.java
+END
+DefaultTransportMetadata.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/DefaultTransportMetadata.class
+END
+IoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoService.java
+END
+IoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoAcceptor.java
+END
+IoServiceListenerSupport$LockNotifyingListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceListenerSupport$LockNotifyingListener.class
+END
+IoHandlerAdapter.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoHandlerAdapter.class
+END
+AbstractIoConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoConnector.class
+END
+IoProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoProcessor.class
+END
+IoServiceListenerSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceListenerSupport.java
+END
+TransportMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/TransportMetadata.java
+END
+AbstractIoAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoAcceptor.class
+END
+AbstractIoService.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoService.class
+END
+AbstractIoService$ServiceOperationFuture.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoService$ServiceOperationFuture.class
+END
+DefaultTransportMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/DefaultTransportMetadata.java
+END
+IoServiceStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceStatistics.java
+END
+IoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoHandler.java
+END
+IoHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoHandlerAdapter.java
+END
+AbstractIoConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoConnector.java
+END
+SimpleIoProcessorPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/SimpleIoProcessorPool.java
+END
+AbstractIoAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoAcceptor.java
+END
+AbstractIoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoService.java
+END
+IoServiceListenerSupport.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceListenerSupport.class
+END
+AbstractIoConnector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoConnector$1.class
+END
+AbstractIoConnector$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoConnector$2.class
+END
+TransportMetadata.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/TransportMetadata.class
+END
+IoServiceListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceListener.class
+END
+AbstractIoService$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoService$1.class
+END
+AbstractIoService$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/AbstractIoService$2.class
+END
+IoServiceIdleState.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceIdleState.java
+END
+IoServiceStatistics.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceStatistics.class
+END
+IoHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoHandler.class
+END
+IoServiceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/service/IoServiceListener.java
+END

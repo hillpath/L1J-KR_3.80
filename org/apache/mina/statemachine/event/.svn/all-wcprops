@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/Event.java
+END
+DefaultEventFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/DefaultEventFactory.class
+END
+IoFilterEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/IoFilterEvents.java
+END
+UnhandledEventException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/UnhandledEventException.java
+END
+Event.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/Event.class
+END
+EventArgumentsInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/EventArgumentsInterceptor.java
+END
+IoFilterEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/IoFilterEvents.class
+END
+UnhandledEventException.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/UnhandledEventException.class
+END
+EventFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/EventFactory.java
+END
+EventArgumentsInterceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/EventArgumentsInterceptor.class
+END
+IoHandlerEvents.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/IoHandlerEvents.java
+END
+EventFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/EventFactory.class
+END
+DefaultEventFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/DefaultEventFactory.java
+END
+IoHandlerEvents.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/statemachine/event/IoHandlerEvents.class
+END

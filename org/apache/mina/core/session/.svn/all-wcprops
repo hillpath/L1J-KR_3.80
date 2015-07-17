@@ -1,0 +1,359 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session
+END
+AbstractIoSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AbstractIoSession.java
+END
+IoSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSession.class
+END
+IoSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionConfig.java
+END
+IoSessionDataStructureFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionDataStructureFactory.class
+END
+IoSessionInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionInitializationException.java
+END
+IdleStatusChecker$NotifyingTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatusChecker$NotifyingTask.class
+END
+DummySession$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession$1.class
+END
+DummySession$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession$2.class
+END
+UnknownMessageTypeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/UnknownMessageTypeException.class
+END
+DummySession$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession$3.class
+END
+DummySession$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession$4.class
+END
+IoEventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoEventType.java
+END
+DummySession$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession$5.class
+END
+DummySession$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession$6.class
+END
+IoSessionDataStructureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionDataStructureFactory.java
+END
+TrafficMask.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/TrafficMask.class
+END
+IoSessionInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionInitializer.java
+END
+IdleStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatus.java
+END
+IoEvent$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoEvent$1.class
+END
+AbstractIoSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AbstractIoSession.class
+END
+DefaultIoSessionDataStructureFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DefaultIoSessionDataStructureFactory.java
+END
+AbstractIoSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AbstractIoSessionConfig.java
+END
+IoSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionConfig.class
+END
+ExpiringSessionRecycler$DefaultExpirationListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/ExpiringSessionRecycler$DefaultExpirationListener.class
+END
+IoSessionRecycler.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionRecycler.class
+END
+IdleStatusChecker.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatusChecker.class
+END
+TrafficMask.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/TrafficMask.java
+END
+IoSessionAttributeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionAttributeMap.java
+END
+IdleStatusChecker$SessionCloseListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatusChecker$SessionCloseListener.class
+END
+DummySession.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession.java
+END
+AbstractIoSession$CloseRequestAwareWriteRequestQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AbstractIoSession$CloseRequestAwareWriteRequestQueue.class
+END
+IoEventType.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoEventType.class
+END
+AttributeKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AttributeKey.class
+END
+IoSessionInitializer.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionInitializer.class
+END
+IoSessionRecycler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionRecycler.java
+END
+IdleStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatus.class
+END
+ExpiringSessionRecycler.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/ExpiringSessionRecycler.class
+END
+IdleStatusChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatusChecker.java
+END
+DefaultIoSessionDataStructureFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DefaultIoSessionDataStructureFactory.class
+END
+AbstractIoSession$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AbstractIoSession$1.class
+END
+AbstractIoSession$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AbstractIoSession$2.class
+END
+AbstractIoSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AbstractIoSessionConfig.class
+END
+DefaultIoSessionDataStructureFactory$DefaultWriteRequestQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DefaultIoSessionDataStructureFactory$DefaultWriteRequestQueue.class
+END
+IoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoEvent.java
+END
+IoSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSession.java
+END
+AttributeKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/AttributeKey.java
+END
+IoSessionRecycler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionRecycler$1.class
+END
+IdleStatusChecker$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatusChecker$1.class
+END
+IoSessionAttributeMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionAttributeMap.class
+END
+ExpiringSessionRecycler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/ExpiringSessionRecycler.java
+END
+DummySession.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DummySession.class
+END
+SessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/SessionState.java
+END
+UnknownMessageTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/UnknownMessageTypeException.java
+END
+IoSessionInitializationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoSessionInitializationException.class
+END
+IdleStatusChecker$NotifyingTaskImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IdleStatusChecker$NotifyingTaskImpl.class
+END
+ExpiringSessionRecycler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/ExpiringSessionRecycler$1.class
+END
+DefaultIoSessionDataStructureFactory$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DefaultIoSessionDataStructureFactory$1.class
+END
+IoEvent.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/IoEvent.class
+END
+DefaultIoSessionDataStructureFactory$DefaultIoSessionAttributeMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/core/session/DefaultIoSessionDataStructureFactory$DefaultIoSessionAttributeMap.class
+END

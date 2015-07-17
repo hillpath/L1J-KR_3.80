@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe
+END
+VmPipeConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeConnector.class
+END
+DefaultVmPipeSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/DefaultVmPipeSessionConfig.java
+END
+VmPipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipe.java
+END
+VmPipeSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeSession.java
+END
+VmPipeAcceptor.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeAcceptor.class
+END
+VmPipeAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeAddress.java
+END
+VmPipeConnector$LocalAddressReclaimer.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeConnector$LocalAddressReclaimer.class
+END
+VmPipeFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeFilterChain.java
+END
+VmPipeFilterChain$VmPipeIoProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeFilterChain$VmPipeIoProcessor.class
+END
+VmPipeConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeConnector.java
+END
+VmPipeSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeSessionConfig.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/package.html
+END
+VmPipeAcceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeAcceptor.java
+END
+VmPipeFilterChain$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeFilterChain$1.class
+END
+DefaultVmPipeSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/DefaultVmPipeSessionConfig.class
+END
+VmPipeConnector$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeConnector$1.class
+END
+VmPipe.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipe.class
+END
+VmPipeSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeSession.class
+END
+VmPipeAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeAddress.class
+END
+VmPipeSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeSessionConfig.java
+END
+VmPipeFilterChain.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/vmpipe/VmPipeFilterChain.class
+END

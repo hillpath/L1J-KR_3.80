@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl
+END
+AbstractPropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/AbstractPropertyAccessor.class
+END
+IoServicePropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoServicePropertyAccessor.java
+END
+PropertyTypeConverter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/PropertyTypeConverter.class
+END
+IoSessionFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoSessionFinder.java
+END
+IoSessionPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoSessionPropertyAccessor.java
+END
+IoServicePropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoServicePropertyAccessor.class
+END
+IoFilterPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoFilterPropertyAccessor.java
+END
+IoSessionFinder.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoSessionFinder.class
+END
+IoSessionPropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoSessionPropertyAccessor.class
+END
+IoFilterPropertyAccessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/IoFilterPropertyAccessor.class
+END
+AbstractPropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/AbstractPropertyAccessor.java
+END
+PropertyTypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/integration/ognl/PropertyTypeConverter.java
+END

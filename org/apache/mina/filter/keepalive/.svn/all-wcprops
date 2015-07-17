@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive
+END
+KeepAliveFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveFilter.class
+END
+KeepAliveRequestTimeoutHandler$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler$4.class
+END
+KeepAliveRequestTimeoutHandler$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler$5.class
+END
+KeepAliveMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveMessageFactory.java
+END
+KeepAliveRequestTimeoutHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler.java
+END
+KeepAliveRequestTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutException.java
+END
+KeepAliveMessageFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveMessageFactory.class
+END
+KeepAliveRequestTimeoutHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler.class
+END
+KeepAliveRequestTimeoutException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutException.class
+END
+KeepAliveFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveFilter.java
+END
+KeepAliveRequestTimeoutHandler$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler$1.class
+END
+KeepAliveRequestTimeoutHandler$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler$2.class
+END
+KeepAliveRequestTimeoutHandler$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/KeepAliveRequestTimeoutHandler$3.class
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/keepalive/package.html
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging
+END
+MdcInjectionFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/MdcInjectionFilter.class
+END
+MdcInjectionFilter$MdcKey.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/MdcInjectionFilter$MdcKey.class
+END
+LogLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel.java
+END
+MdcInjectionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/MdcInjectionFilter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/package.html
+END
+LoggingFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LoggingFilter.class
+END
+LogLevel$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel$1.class
+END
+LogLevel$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel$2.class
+END
+LogLevel$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel$3.class
+END
+MdcInjectionFilter$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/MdcInjectionFilter$1.class
+END
+LogLevel$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel$4.class
+END
+LogLevel$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel$5.class
+END
+LogLevel$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel$6.class
+END
+LogLevel$LogLevelLogger.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel$LogLevelLogger.class
+END
+LoggingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LoggingFilter.java
+END
+LogLevel.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/filter/logging/LogLevel.class
+END

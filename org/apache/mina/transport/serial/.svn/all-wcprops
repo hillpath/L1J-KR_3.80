@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial
+END
+DefaultSerialSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/DefaultSerialSessionConfig.class
+END
+SerialSessionImpl$WriteWorker.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionImpl$WriteWorker.class
+END
+SerialAddressEditor$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddressEditor$1.class
+END
+SerialAddress$StopBits.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddress$StopBits.class
+END
+SerialSessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionImpl.java
+END
+SerialAddress$Parity.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddress$Parity.class
+END
+SerialAddress$FlowControl.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddress$FlowControl.class
+END
+SerialPortUnavailableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialPortUnavailableException.java
+END
+SerialSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSession.class
+END
+SerialAddress.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddress.class
+END
+SerialSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionConfig.java
+END
+SerialConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialConnector.class
+END
+DefaultSerialSessionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/DefaultSerialSessionConfig.java
+END
+SerialSessionImpl$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionImpl$1.class
+END
+SerialAddressEditor.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddressEditor.class
+END
+SerialSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSession.java
+END
+SerialSessionImpl$ReadWorker.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionImpl$ReadWorker.class
+END
+SerialAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddress.java
+END
+SerialSessionImpl$SerialIoProcessor.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionImpl$SerialIoProcessor.class
+END
+SerialAddress$DataBits.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddress$DataBits.class
+END
+SerialSessionImpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionImpl.class
+END
+SerialConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialConnector.java
+END
+SerialPortUnavailableException.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialPortUnavailableException.class
+END
+SerialAddressEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddressEditor.java
+END
+SerialSessionConfig.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialSessionConfig.class
+END
+SerialAddress$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/freeui_freeui/!svn/ver/20/org/apache/mina/transport/serial/SerialAddress$1.class
+END
