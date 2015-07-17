@@ -730,7 +730,7 @@ public static int MAX_LEVEL;  //�űԺ�ȣ����
 					// �ܺ�ȭ
 					"AccountLimit", "1"));
 		} catch (Exception e) {
-			_log.log(Level.SEVERE, "Config.���� ������ �߻��߽��ϴ�.", e);
+			_log.log(Level.SEVERE, "Config/server.properties", e);
 			throw new Error("Failed to Load " + SERVER_CONFIG_FILE + " File.");
 		}
 
@@ -855,7 +855,7 @@ public static int MAX_LEVEL;  //�űԺ�ȣ����
 			
 		
 		} catch (Exception e) {
-			_log.log(Level.SEVERE, "Config.���� ������ �߻��߽��ϴ�.", e);
+			_log.log(Level.SEVERE, "config/rates.properties.", e);
 			throw new Error("Failed to Load " + RATES_CONFIG_FILE + " File.");
 		}
 
@@ -1011,7 +1011,7 @@ public static int MAX_LEVEL;  //�űԺ�ȣ����
 			MINIWAR_BTEAM_Y = Integer.parseInt(altSettings.getProperty("MiniWarBteamY", "33333"));
 			
 		} catch (Exception e) {
-			_log.log(Level.SEVERE, "Config.���� ������ �߻��߽��ϴ�.", e);
+			_log.log(Level.SEVERE, "config/altsettings.properties", e);
 			throw new Error("Failed to Load " + ALT_SETTINGS_FILE + " File.");
 		}
 
@@ -1198,7 +1198,7 @@ public static int MAX_LEVEL;  //�űԺ�ȣ����
 			LV99_EXP = Integer.parseInt(charSettings.getProperty("Lv99Exp",
 					"16777216"));
 		} catch (Exception e) {
-			_log.log(Level.SEVERE, "Config.���� ������ �߻��߽��ϴ�.", e);
+			_log.log(Level.SEVERE, "config/charsettings.properties", e);
 			throw new Error("Failed to Load " + CHAR_SETTINGS_CONFIG_FILE
 					+ " File.");
 		}
@@ -1212,7 +1212,7 @@ public static int MAX_LEVEL;  //�űԺ�ȣ����
 	      Show_Announcecycle_Time = Integer.parseInt(othersettings.getProperty("ShowAnnouncecycleTime", "30"));
 	      
 	     } catch (Exception e) {
-	    	 _log.log(Level.SEVERE, "Config.���� ������ �߻��߽��ϴ�.", e);
+	    	 _log.log(Level.SEVERE, "config/othersettings.properties", e);
 	       throw new Error("Failed to Load " + OTHER_SETTINGS_CONFIG_FILE + " File.");
 	     }
 //�ڵ�����
