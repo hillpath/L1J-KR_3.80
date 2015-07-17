@@ -25,7 +25,7 @@ enum SpecialEvent {
 	BugRace, AllBuf, InfinityFight, DoNotChatEveryone, DoChatEveryone
 };
 
-//���� ��, ��ü �̺�Ʈ�� ���� ó���� ���
+
 public class SpecialEventHandler {
 
 	private static volatile SpecialEventHandler uniqueInstance = null;
