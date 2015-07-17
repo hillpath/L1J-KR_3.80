@@ -36,22 +36,13 @@ import l1j.server.server.model.map.L1Map;
 import l1j.server.server.model.map.L1V1Map;
 import l1j.server.server.utils.FileUtil;
 
-/**
- * 텍스트 맵을 캐싱 해 read 시간을 단축한다.
- */
+
 public class CachedMapReader extends MapReader {
 
-	/** 텍스트 맵 홀더. */
 	private static final String MAP_DIR = "./maps/";
-
-	/** 캐싱 하는 맵 홀더. */
 	private static final String CACHE_DIR = "./data/mapcache/";
 
-	/**
-	 * 전맵 ID의 리스트를 돌려준다.
-	 * 
-	 * @return ArraryList
-	 */
+
 	private FastTable<Integer> listMapIds() {
 		FastTable<Integer> ids = new FastTable<Integer>();
 
@@ -77,14 +68,7 @@ public class CachedMapReader extends MapReader {
 		return ids;
 	}
 
-	/**
-	 * 지정의 맵 번호의 텍스트 맵을 캐쉬 맵으로 변경한다.
-	 * 
-	 * @param mapId
-	 *            맵 번호
-	 * @return L1V1Map
-	 * @throws IOException
-	 */
+
 	private L1V1Map cacheMap(final int mapId) throws IOException {
 		File file = new File(CACHE_DIR);
 		if (!file.exists()) {
@@ -113,14 +97,7 @@ public class CachedMapReader extends MapReader {
 		return map;
 	}
 
-	/**
-	 * 지정의 맵 번호의 캐쉬 맵을 읽어들인다.
-	 * 
-	 * @param mapId
-	 *            맵 번호
-	 * @return L1Map
-	 * @throws IOException
-	 */
+
 	@Override
 	public L1Map read(final int mapId) throws IOException {
 		File file = new File(CACHE_DIR + mapId + ".map");
@@ -161,12 +138,7 @@ public class CachedMapReader extends MapReader {
 		return map;
 	}
 
-	/**
-	 * 모든 텍스트 맵을 읽어들인다.
-	 * 
-	 * @return Map
-	 * @throws IOException
-	 */
+
 	@Override
 	public Map<Integer, L1Map> read() throws IOException {
 		Map<Integer, L1Map> maps = new FastMap<Integer, L1Map>();
