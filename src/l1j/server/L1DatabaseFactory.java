@@ -33,24 +33,24 @@ import com.mchange.v2.c3p0.ComboPooledDataSource;
 public class L1DatabaseFactory {
 	private static L1DatabaseFactory _instance = null;
 
-	/** DB접속 정보를 집계한 것? */
+	/** DB connection summary? */
 	private ComboPooledDataSource _source;
 
-	/** 메세지 로그용. */
+	/** message log */
 	private static Logger _log = Logger.getLogger(L1DatabaseFactory.class
 			.getName());
 
-	/* DB 액세스에 필요한 정보들 */
-	/** DB접속 드라이버. */
+	/* DB Access Information */
+	/** DB connection driver */
 	private static String _driver;
 
-	/** DB서버의 URL. */
+	/** DB server URL. */
 	private static String _url;
 
-	/** DB서버에 접속하는 유저명. */
+	/** DB username */
 	private static String _user;
 
-	/** DB서버에 접속하는 패스워드. */
+	/** DB password */
 	private static String _password;
 
 	/**
@@ -70,16 +70,16 @@ public class L1DatabaseFactory {
 	}
 
 	/**
-	 * DB에의 액세스에 필요한 정보 설정
+	 * DB information needed to access
 	 * 
 	 * @param driver
-	 *            DB접속 드라이버
+	 *            DB connection driver
 	 * @param url
-	 *            DB서버 URL
+	 *            DB server URL
 	 * @param user
-	 *            DB서버에 접속하는 유저명
+	 *            DB username
 	 * @param password
-	 *            DB서버에 접속하는 패스워드
+	 *            DB password
 	 */
 	public static void setDatabaseSettings(final String driver,
 			final String url, final String user, final String password) {
@@ -109,6 +109,9 @@ public class L1DatabaseFactory {
 		}
 	}
 
+	/**
+	 * Cut DB connection when server is down
+	 */
 	public void shutdown() {
 		try {
 			_source.close();
@@ -123,9 +126,9 @@ public class L1DatabaseFactory {
 	}
 
 	/**
-	 * DB접속을 해, connection 오브젝트를 돌려준다.
+	 * DB Access, returning connection
 	 * 
-	 * @return Connection connection 오브젝트
+	 * @return Connection connection object
 	 * @throws SQLException
 	 */
 	public Connection getConnection() {
