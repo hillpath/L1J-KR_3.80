@@ -1222,12 +1222,12 @@ public static int MAX_LEVEL;  //�űԺ�ȣ����
 	private static void validate() {
 		if (!IntRange.includes(Config.ALT_ITEM_DELETION_RANGE, 0, 5)) {
 			throw new IllegalStateException(
-					"ItemDeletionRange�� ���� ���� ���� �������Դϴ�. ");
+					"Item Delete Range is out of range. (0, 5) ");
 		}
 
 		if (!IntRange.includes(Config.ALT_ITEM_DELETION_TIME, 1, 35791)) {
 			throw new IllegalStateException(
-					"ItemDeletionTime�� ���� ���� ���� �������Դϴ�. ");
+					"Item Delete Time is out of range. (1, 35791) ");
 		}
 	}
 
