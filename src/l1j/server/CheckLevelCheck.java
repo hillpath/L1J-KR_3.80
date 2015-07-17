@@ -79,7 +79,7 @@ public class CheckLevelCheck implements Runnable {
 					   
 					if (pc.getLevel() > pc.getHighLevel() && !pc.isGm()) {sendMessage("[" + pc.getName()+ "]");
 						pc.sendPackets(new S_Disconnect());
-						//�Ʒ� �޽����� �ʺ� ��ڰ� ��ġ�� �м��ϱ� �����δ� ã�� ���Ұ�� ������ �ְ� �ȴ�.
+						
 System.out.println("Please check your bug. Location: The l1j.server / CheckLevelCheck.java.");						
 						continue;
 					} else if (pc.getLevel() > 99 && !pc.isGm()) {sendMessage("[" + pc.getName()+ "]");
@@ -88,7 +88,7 @@ System.out.println("Please check your bug. Location: The l1j.server / CheckLevel
 					}
 				}
 			} catch (Exception e) {				
-				//�����Ǵ� ���� �߻��� ����...
+				
 				System.out.println("CheckLevelCheck[]Errer");
 			}
 		}
